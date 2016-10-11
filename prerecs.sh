@@ -5,3 +5,4 @@ nmtui
 cd /etc/sysconfig/network-scripts/
 ls -lha
 ifconfig
+wget https://sourceforge.net/projects/webadmin/files/webmin/1.820/webmin-1.820.tar.gz
